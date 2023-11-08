@@ -1,0 +1,167 @@
+
+
+/**** navbar ***/
+.nav-item{
+    letter-spacing : .2em;
+    font-size : 14px;
+    text-transform :none;
+
+}
+
+.nav-item:hover {
+    font-weight: bold !important;
+}
+
+.dropdown-item{
+    letter-spacing : .2em;
+    font-size : 14px;
+    text-transform : none;
+    color: #000 !important;
+    font-weight: bold;
+
+}
+
+.dropdown-item:hover{
+    font-weight: bold !important;
+    color: #0000ff !important;
+    background-color: #ddd !important;
+}
+
+.my_footer{
+    background-color : #f8f9fa;
+    height:60px;
+}
+.my_footer p{
+    padding-top :20px;
+}
+
+/**** category page ****/
+.my_row_class{
+    padding-top : 15px;
+}
+.my_row_class .mx-auto{
+    color:#000;
+    font-size:12px;
+}
+
+.my_image{
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    height: 200px !important;
+    width: 200px !important;
+    padding-right:20px;
+}
+
+.my_title{
+    font-size:16px;
+    text-align: center;
+    text-transform: none;
+    letter-spacing:.2em;
+    font-weight: bold;
+}
+
+.text-justify{
+
+    color: black;
+
+}
+
+
+.my_bottom_margin{
+    margin_bottom :10px;
+}
+
+.card-body h4{
+    font-size : 18px;
+    text-transform: none;
+
+    letter-spacing : .2em;
+
+}
+
+/***product page****/
+.my_prod_row_class{
+    padding-top:15px;
+    padding-bottom:20px
+
+}
+.my_prod_row_class .mx_auto{
+
+    color:#000;
+    font-size:12px;
+    text-decoration:none;
+
+}
+.my_prod_title{
+    font-size:16px;
+    text_transform:uppercase;
+    letter-spacing:.2em;
+    padding-top:15px;
+    padding-bottom:10px;
+}
+
+.my_prod_text{
+    padding-right:20px;
+}
+.my_search_text{
+padding-top:20px;
+
+}
+/*** cart page ***/
+.my_custom_table{
+
+    min-width:400px !important;
+    font-size:14px !important;
+
+
+}
+.my_custom_thead{
+    font-weight:normal !important;
+    text_transform:uppercase !important;
+    letter-spacing:.2em  !important;
+    background-color:#f8f8fa !important;
+
+
+}
+
+.custom_a{
+text-decoration:none;
+
+}
+
+.custom_icon{
+
+    text-decoration:none;
+    color:#868e96 !important;
+
+}
+
+.my_custom_button{
+
+margin-top:5px;
+
+}
+
+.fa-solid {
+font-size: 14px;
+}
+
+
+
+.navbar {
+    padding: 5px !important;
+    background-color: #282F3D !important;
+    color: white !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+    text-transform :sentence-case;
+}
+
+.home-banner {
+    width: 100%;
+    padding: 4px 15px !important;
+}
